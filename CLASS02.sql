@@ -42,7 +42,7 @@ INSERT INTO pelicula (titulo, descripcion, anio_de_estreno) VALUES
 ('El caballero de la noche', 'Batman enfrenta al Joker en Gotham.', 2008),
 ('Los Vengadores', 'Los héroes más poderosos de la Tierra se unen.', 2012);
 
--- Insertar datos en la tabla actor_de_pelicula
+
 INSERT INTO actor_de_pelicula (id_actor, id_pelicula) VALUES 
 (1, 1), 
 (2, 2),
